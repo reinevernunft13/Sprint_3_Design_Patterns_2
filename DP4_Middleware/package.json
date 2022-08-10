@@ -1,0 +1,17 @@
+{
+  "name": "dp4_middleware",
+  "version": "1.0.0",
+  "description": "Like the Observer, the 'Middleware Pattern'(MP) -- a.k.a 'Mediator' -- is a behavioral pattern. The MP reduces complexity of communication between multiple objects/classes by introducing an object/class that coordinates interaction between two sets of objects. Thus, objects no longer interact directly but rather all communication is carried out by a mediator object/class.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "middleware",
+    "nodejs"
+  ],
+  "author": "Cristina Carrillo",
+  "license": "ISC"
+}
