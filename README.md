@@ -1,1 +1,10 @@
-# Sprint_3_Design_Patterns_2
+## Sprint 3: Design Patterns (Part II)
+
+🔥 More design patterns...This unit covers: 
+
+- Middleware
+
+- Decorator
+
+
+
